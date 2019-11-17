@@ -1,4 +1,4 @@
-# clone-match chile
+# clone-mach chile
 
 Aplicación para demostrar web elements en vue con un clone de la tarjeta match
 
