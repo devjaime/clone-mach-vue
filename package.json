@@ -1,0 +1,15 @@
+{
+    "name": "credit-card-form-master",
+    "version": "1.0.0",
+    "description": "A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with vuejs and also fully responsive.",
+    "main": "script.js",
+    "scripts": {
+        "dev": "lite-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.5.4",
+        "webpack-dev-server": "^3.9.0"
+    }
+}
